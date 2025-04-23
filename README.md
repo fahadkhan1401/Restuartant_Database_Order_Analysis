@@ -6,7 +6,7 @@ This project involved the analysis of a relational database, restaurant_db, to u
 
 Business Problem Addressed:
 
-##The central business question I aimed to answer was: Which menu items are performing well, and which are underperforming? Additionally, what are the preferred items among our top customers?
+#The central business question I aimed to answer was: Which menu items are performing well, and which are underperforming? Additionally, what are the preferred items among our top customers?
 
 Tools and Skills Employed:
 

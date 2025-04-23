@@ -4,6 +4,8 @@ Project Overview:
 
 This project involved the analysis of a relational database, restaurant_db, to uncover key trends within the menu and customer order behavior. I utilized SQL to query two primary tables: menu_items and order_details. The goal was to extract actionable insights regarding item performance and customer preferences.
 
+Data Source: https://mavenanalytics.io/guided-projects#projects-list
+
 Business Problem Addressed:
 
 The central business question I aimed to answer was: Which menu items are performing well, and which are underperforming? Additionally, what are the preferred items among our top customers?

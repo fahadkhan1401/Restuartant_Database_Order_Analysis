@@ -6,13 +6,15 @@ This project involved the analysis of a relational database, restaurant_db, to u
 
 Business Problem Addressed:
 
-#The central business question I aimed to answer was: Which menu items are performing well, and which are underperforming? Additionally, what are the preferred items among our top customers?
+The central business question I aimed to answer was: Which menu items are performing well, and which are underperforming? Additionally, what are the preferred items among our top customers?
 
-Tools and Skills Employed:
+Tools and Skills Used:
 
 SQL (MySQL): Proficiently employed advanced SQL techniques, including writing complex queries, utilizing aggregate functions (e.g., COUNT(), AVG(), SUM()), filtering data with WHERE clauses, sorting results using ORDER BY, grouping data with GROUP BY, joining multiple tables, and applying HAVING clauses for post-aggregation filtering.
+
 Data Analysis: Effectively interpreted raw transactional data to identify meaningful patterns and trends.
 Problem Solving: Successfully translated business inquiries into efficient and targeted SQL queries to extract the necessary information.
+
 Key Insights:
 
 Pricing Analysis: The analysis revealed that Shrimp Scampi (Italian) is the most expensive item on the menu, while Edamame (Asian) is the least expensive.
